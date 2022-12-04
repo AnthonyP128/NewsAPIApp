@@ -7,10 +7,10 @@ TODO LIST:
   - Display a summary of the content ✅
   - Make the headline a link that takes you to the article page ✅
 
-2) Add functionality to filter the headlines by a specific source, e.g only displaying articles from the BBC.
+2) Add functionality to filter the headlines by a specific source, e.g only displaying articles from the BBC. ✅
 
 3) The design of the app is left to you, but the general guidelines are:
-  - Keep it simple
-  - Make it look clean and polished.
+  - Keep it simple. ✅
+  - Make it look clean and polished. ✅
 
 4) Make sure compatability with ios and android. ✅
